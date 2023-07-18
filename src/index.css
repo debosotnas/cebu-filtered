@@ -11,3 +11,74 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/******************/
+
+.main-app {
+  padding: 10px;
+}
+
+/******************/
+
+.checked {
+  background-color: #ffffa3;
+}
+
+.group1 {
+  background-color: #ebebeb;
+}
+
+/* .group1:hover {
+  background-color: darkgray;
+} */
+
+.group2 {
+  background-color: white;
+}
+
+.group2:hover {
+  background-color: lightgray;
+}
+
+.highlighted {
+  background-color: #ffd66f;
+}
+
+.checked-highlighted {
+  background-color: #baffff;
+}
+
+/******************/
+
+.lbl-txt-my {
+  margin-right: 5px;
+}
+
+.form-txt-my {
+  margin-left: 4px;
+  font-size: 14px;
+  width: 100px;
+}
+
+.btn-reset-rev {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  width: 140px;
+}
+
+.file-select-file {
+  position: absolute;
+  right: 170px;
+  top: 10px;
+  width: 200px;
+  font-size: 14px;
+  background-color: bisque;
+}
+
+table tr td {
+  font-size: 14px;
+}
+table {
+  margin-top: 15px;
+}
